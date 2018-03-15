@@ -1,0 +1,24 @@
+body 
+{
+	font-family: "Courier New";
+	color: black;
+
+}
+
+ul li
+{
+	color: black;
+	list-style-type: none;
+
+
+}
+
+.sleep
+{
+	background: black;
+	color:white;
+}
+
+.container{background: #3377ff;}
+.navbar{background: yellow;}
+a {color:black;}
